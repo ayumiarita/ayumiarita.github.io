@@ -1,3 +1,51 @@
 div {
-    display: inline-block
+    display: inline-block;
+    
+}
+
+div.lateral {
+    width: 300px;
+    height: 800px;
+    vertical-align: top;
+    margin: 10px 10px 10px 100px;
+    background-color: #ffffff60;
+    
+}
+
+* {
+    padding: 0;
+    margin: 10px;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: 'Baloo 2', cursive;
+    line-height: 1.2;
+    width: 930;
+}
+
+body {
+    background-image: linear-gradient(#ffcccc, #ffd9cc, #ffe6cc, #fff2cc, #ffffcc, #f2ffcc, #e6ffcc, #d9ffcc, #ccffcc, 	#ccffd9, #ccffe6, #ccfff2, #ccffff, #ccf2ff, #cce6ff, #ccd9ff, #ccccff, #d9ccff, #e6ccff, #f2ccff, #ffccff, #ffccf2, #ffcce6, #ffccd9, #ffcccc);
+    margin: 50px 200px 50px 200px;
+    width: 1425px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 48pt;
+}
+h2 {
+    font-family: 'Baloo 2', cursive;
+    font-size: 28pt;
+}
+
+h3 {
+    font-family: 'Baloo 2', cursive;
+    font-size: 20pt;
+}
+
+
+img {
+    height: 346;
 }
