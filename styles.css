@@ -21,7 +21,7 @@ div.lateral {
 
 p {
     font-family: 'Baloo 2', cursive;
-    line-height: 1.2;
+    line-height: 1.4;
     width: 930;
 }
 
@@ -33,16 +33,15 @@ body {
 
 h1 {
     font-family: 'Sacramento', cursive;
-    font-size: 48pt;
-}
-h2 {
-    font-family: 'Baloo 2', cursive;
-    font-size: 28pt;
+    font-size: 68pt;
+    font-weight: 400;
 }
 
 h3 {
-    font-family: 'Baloo 2', cursive;
-    font-size: 20pt;
+    font-family: 'Comic Neue', cursive;
+    font-size: 25pt;
+    font-weight: 700;
+    margin: 30px 10px 10px 10px;
 }
 
 
